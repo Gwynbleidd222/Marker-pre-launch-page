@@ -1,6 +1,6 @@
 # Frontend Mentor - Marker Pre Launch Landing Page
 
-This is a solution to the [Marker Pre Launch Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Marker Pre Launch Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/maker-prelaunch-landing-page-WVZIJtKLd). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### The challenge
 
@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Gwynbleidd222/tip-calculator-app]
-- Live Site URL: [https://gwynbleidd222.github.io/tip-calculator-app/]
+- Solution URL: [https://github.com/Gwynbleidd222/Marker-pre-launch-page]
+- Live Site URL: [https://gwynbleidd222.github.io/Marker-pre-launch-page/]
 
 ## My process
 
